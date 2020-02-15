@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: 192.168.0.231/dev/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-uovi36wc
     replicaCount: 1
     hpa:
       enabled: false
