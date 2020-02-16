@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: 192.168.0.231/dev/podinfo
-      tag: dev-rqn6zwmd
+      tag: dev-kfhp0xye
     replicaCount: 1
     hpa:
       enabled: false
